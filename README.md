@@ -32,5 +32,9 @@ Welcome to my GitHub profile! I'm passionate about technology, design, and helpi
 - Phone: +639478535619
 - Portfolio: [bit.ly/katcordova](http://bit.ly/katcordova)
 
+## 🎏 Social Media:
+- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/yourusername) 
+- [![X](https://img.shields.io/badge/X-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
+
 ## 🍙 Fun fact:
 - Raised in the vibrant streets of Mati, Davao Oriental, I draw inspiration from my surroundings, blending the chaos of everyday life into my art. My style is versatile and ever-evolving, much like the lively community around me!
