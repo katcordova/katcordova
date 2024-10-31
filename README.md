@@ -9,6 +9,14 @@ Welcome to my GitHub profile! I'm passionate about technology, design, and helpi
 - Voice acting and multimedia projects
 - Academic support and educational initiatives
 
+## 🧸 Languages and Tools:
+- ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+- ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+- ![Figma](https://img.shields.io/badge/Figma-0ACF83?style=flat&logo=figma&logoColor=white)
+- ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white)
+- ![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=flat&logo=adobe&logoColor=white)
+
 ## 🐛 I’m currently learning:
 - Advanced JavaScript frameworks (like React or Vue.js)
 - Backend development with Python
