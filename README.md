@@ -36,5 +36,6 @@ Welcome to my GitHub profile! I'm passionate about technology, design, and helpi
 - [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/yourusername) 
 - [![X](https://img.shields.io/badge/X-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
 
-## 🍙 Fun fact:
-- Raised in the vibrant streets of Mati, Davao Oriental, I draw inspiration from my surroundings, blending the chaos of everyday life into my art. My style is versatile and ever-evolving, much like the lively community around me!
+## 🌸 Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=katcordova&show_icons=true&theme=pink)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=katcordova&layout=compact&theme=pink)
