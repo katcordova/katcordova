@@ -36,6 +36,6 @@ Welcome to my GitHub profile! I'm passionate about technology, design, and helpi
 - [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/yourusername) 
 - [![X](https://img.shields.io/badge/X-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
 
-## 🌸 Stats:
+## 🎐 Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=katcordova&show_icons=true&theme=pink)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=katcordova&layout=compact&theme=pink)
